@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Jose Lara and I am a PhD Student at Northwestern University. My field of interest is Macroeconomics. Prior to my PhD, I worked as a Financial Researcher in the Directorate of Financial Stability at the Mexican Central Bank
 
 <!--
 **joseluislara91/joseluislara91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
